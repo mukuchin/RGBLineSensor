@@ -1,0 +1,5 @@
+Partlist exported from /Users/mukunoharuto/Documents/KRP/RGBカラーセンサ/RGBcolorsenor_dip-borad.sch at 2020/02/13 15:47
+
+Qty Value    Device   Package  Parts    Description MF MPN OC_FARNELL OC_NEWARK
+2            MA03-1   MA03-1   SV1, SV2 PIN HEADER         unknown    unknown  
+1   S9032-02 S9032-02 S9032-02 U$1                                             
